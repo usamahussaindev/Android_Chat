@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_baseline_send_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable rounded_corner
+id bottom_layout
+id left_chat_text_view
+id left_chat_view
+id message_edit_text
+id recycler_view
+id right_chat_text_view
+id right_chat_view
+id send_btn
+id welcome_text
+layout activity_main
+layout chat_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.EasyChatGPT
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,9 @@
+com.example.easychatgpt.test.app-annotation-experimental-1.3.0-0 C:\Users\usama\.gradle\caches\transforms-3\5ce12f7e1b8f65f406de6a221846bae3\transformed\annotation-experimental-1.3.0\res
+com.example.easychatgpt.test.app-core-1.5.0-1 C:\Users\usama\.gradle\caches\transforms-3\b8770ec6cf006f68d9ad6eb08d02bb19\transformed\core-1.5.0\res
+com.example.easychatgpt.test.app-androidTest-2 C:\Users\usama\Downloads\Android_Chat\app\build\generated\res\resValues\androidTest\debug
+com.example.easychatgpt.test.app-androidTest-3 C:\Users\usama\Downloads\Android_Chat\app\build\generated\res\rs\androidTest\debug
+com.example.easychatgpt.test.app-mergeDebugAndroidTestResources-4 C:\Users\usama\Downloads\Android_Chat\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.easychatgpt.test.app-mergeDebugAndroidTestResources-5 C:\Users\usama\Downloads\Android_Chat\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.easychatgpt.test.app-merged_res-6 C:\Users\usama\Downloads\Android_Chat\app\build\intermediates\merged_res\debugAndroidTest
+com.example.easychatgpt.test.app-androidTest-7 C:\Users\usama\Downloads\Android_Chat\app\src\androidTest\res
+com.example.easychatgpt.test.app-androidTestDebug-8 C:\Users\usama\Downloads\Android_Chat\app\src\androidTestDebug\res

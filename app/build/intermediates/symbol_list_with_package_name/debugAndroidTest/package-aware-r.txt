@@ -1,0 +1,3 @@
+com.example.easychatgpt.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
