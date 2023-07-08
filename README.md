@@ -9,9 +9,8 @@ Welcome to the Android_ChatGPT repository! This repository contains the source c
 
 
 🎉 **Features**
-
+-Utilizes OkHttp library for seamless API integration.
 - Chat with an AI model using OpenAI's powerful GPT-3 language model.
-- Utilizes OkHttp library for seamless API integration.
 - Simple and user-friendly interface for smooth conversation flow.
 
 📋 **Requirements**
