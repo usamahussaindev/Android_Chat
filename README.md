@@ -13,7 +13,7 @@ Welcome to the Android_ChatGPT repository! This repository contains the source c
 - Chat with an AI model using OpenAI's powerful GPT-3 language model.
 - Simple and user-friendly interface for smooth conversation flow.
 
-📋 **Requirementss**
+📋 **Requirements**
 
 To run this app, you will need the following:
 
