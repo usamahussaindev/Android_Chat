@@ -25,7 +25,7 @@ To run this app, you will need the following:
 
 To get started with the Android_ChatGPT app, follow these steps:
 
-1. Open the project in Android Studio.
+1. Open project in Android Studio.
 2. In the `MainActivity.java` file, locate the line `Replace YOUR_API_KEY` and replace `YOUR_API_KEY` with your own OpenAI API key.
 3. Build and run the app on an Android device or emulator.
 
